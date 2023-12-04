@@ -1,0 +1,11 @@
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\StringUtil\bin\Release\StringUtil.dll
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\StringUtil\bin\Release\StringUtil.pdb
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\StringUtil\obj\Release\StringUtil.csprojResolveAssemblyReference.cache
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\StringUtil\obj\Release\StringUtil.dll
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\StringUtil\obj\Release\StringUtil.pdb
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\StringUtil\bin\Release\StringUtil.dll
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\StringUtil\bin\Release\StringUtil.pdb
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\StringUtil\obj\Release\StringUtil.csproj.AssemblyReference.cache
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\StringUtil\obj\Release\StringUtil.csproj.CoreCompileInputs.cache
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\StringUtil\obj\Release\StringUtil.dll
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\StringUtil\obj\Release\StringUtil.pdb

@@ -1,0 +1,15 @@
+C:\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\bin\Release\Mail.dll
+C:\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\bin\Release\Mail.pdb
+C:\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\obj\Release\Mail.csprojResolveAssemblyReference.cache
+C:\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\obj\Release\Mail.dll
+C:\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\obj\Release\Mail.pdb
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\bin\Release\Mail.dll
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\bin\Release\Mail.pdb
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\obj\Release\Mail.dll
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\obj\Release\Mail.pdb
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\Mail\bin\Release\Mail.dll
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\Mail\bin\Release\Mail.pdb
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\Mail\obj\Release\Mail.csproj.AssemblyReference.cache
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\Mail\obj\Release\Mail.csproj.CoreCompileInputs.cache
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\Mail\obj\Release\Mail.dll
+C:\Users\C.Nader.HIVE017\Documents\sources\Deltabyte_eMail\Mail\obj\Release\Mail.pdb

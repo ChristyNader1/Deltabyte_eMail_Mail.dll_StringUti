@@ -1,0 +1,9 @@
+c:\Users\rebel\documents\visual studio 2015\Projects\eMail\Mail\bin\Debug\Mail.dll
+c:\Users\rebel\documents\visual studio 2015\Projects\eMail\Mail\bin\Debug\Mail.pdb
+c:\Users\rebel\documents\visual studio 2015\Projects\eMail\Mail\obj\Debug\Mail.dll
+c:\Users\rebel\documents\visual studio 2015\Projects\eMail\Mail\obj\Debug\Mail.pdb
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\bin\Debug\Mail.dll
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\bin\Debug\Mail.pdb
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\obj\Debug\Mail.csprojResolveAssemblyReference.cache
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\obj\Debug\Mail.dll
+\\Hive017\c\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\Mail\obj\Debug\Mail.pdb

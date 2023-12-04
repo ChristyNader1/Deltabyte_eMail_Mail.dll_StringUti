@@ -1,0 +1,4 @@
+C:\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\StringUtil\bin\Debug\StringUtil.dll
+C:\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\StringUtil\bin\Debug\StringUtil.pdb
+C:\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\StringUtil\obj\Debug\StringUtil.dll
+C:\Users\rebel\Documents\Visual Studio 2015\Projects\eMail\StringUtil\obj\Debug\StringUtil.pdb
