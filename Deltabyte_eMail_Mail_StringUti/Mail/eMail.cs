@@ -7,7 +7,7 @@ using System.Net.Mime;
 
 namespace Deltabyte.Mail
 {
-    public class Field
+    public class Field 
     {
         #region Properties
         public String User { get; set; }
