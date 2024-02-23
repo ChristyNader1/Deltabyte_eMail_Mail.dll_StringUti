@@ -175,7 +175,7 @@ namespace Deltabyte.Mail
                     Client.Port = Port;
                     Client.Timeout = Timeout;
                     Client.EnableSsl = true;
-                    Client.Credentials = new NetworkCredential(User, Password);
+                  
                     try
                     {
                         Client.Send(Message);
@@ -183,8 +183,17 @@ namespace Deltabyte.Mail
                     }
                     catch (Exception e)
                     {
-                        Error = true;
-                        Text = e.ToString();
+                        try 
+                        {
+                            Client.Credentials = new NetworkCredential(User, Password);
+                            Client.Send(Message);
+                            return true;
+                        }
+                        catch (Exception ex)
+                        {
+                            Error = true;
+                            Text = ex.ToString();
+                        }
                     }
                     return false;
                 }
@@ -209,17 +218,31 @@ namespace Deltabyte.Mail
                     Client.UseDefaultCredentials = false;
                     Client.Port = Port;
                     Client.Timeout = Timeout;
-                    Client.EnableSsl = true;
-                    Client.Credentials = new NetworkCredential(User, Password);
+                    
                     try
                     {
+                        Text = Client.Port.ToString() + "don't need NetworkCredential";
+                        Client.EnableSsl = false;
+                        Client.Credentials = CredentialCache.DefaultNetworkCredentials;
                         Client.Send(Message);
                         return true;
                     }
                     catch (Exception e)
                     {
-                        Error = true;
-                        Text = e.ToString();
+                        try
+                        {
+                            Text = "need NetworkCredential";
+                            Client.EnableSsl = true;
+                            Client.Credentials = new NetworkCredential(User, Password);
+                            Client.Send(Message);
+                            Text += e.ToString();
+                            return true;
+                        }
+                        catch (Exception ex)
+                        {
+                            Error = true;
+                            Text += ex.ToString();
+                        }
                     }
                     return false;
                 }
